@@ -59,9 +59,10 @@
 - 📈 **[Flour Price Forecasting (2003–2026)](https://github.com/BAHA-Kossai/time_serie_project)**: time series analysis and statistical forecasting *(R · forecast · tseries)*
 - ✈️ **[Atidal Travel Agency Platform](https://github.com/BAHA-Kossai/SE_Project_Atidal_Travel)**: full-stack booking system with user and admin dashboards *(React · Express · Supabase)*
 
-### 📊 GitHub stats
+<!-- ### 📊 GitHub stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=BAHA-Kossai&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BAHA-Kossai&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+</p> -->
+
